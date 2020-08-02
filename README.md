@@ -27,3 +27,8 @@ _snippet (ipynb) of Coordinates & 2D KNN:_
 * Collected data from [Inside Airbnb](http://insideairbnb.com/) and maintained it on Kaggle with achieving _Top-20 Most Voted, 1850+ Votes, Gold medal_
 * Analysed and visualized distribution of prices of New York City boroughs & neighborhoods via Seaborn
 * Optimized text data presented and provided with Listing Titles insights on trend terminology 
+
+_snippet from Kaggle:_
+
+
+<img src="https://user-images.githubusercontent.com/34199193/89118405-96875300-d473-11ea-8fa4-6034f51a6a4f.PNG" width="750" height="270">
