@@ -20,5 +20,4 @@ _inline (ipynb) version GIF:_
 
 _snippet (ipynb) of Coordinates & 2D KNN:_
 
-<img src="https://user-images.githubusercontent.com/34199193/89117211-23c5aa00-d46a-11ea-893a-a059d5ec2a0d.PNG" width="300" height="260">
-<img src="https://user-images.githubusercontent.com/34199193/89117053-9b92d500-d468-11ea-9925-5610466a9dc6.PNG" width="300" height="260">
+<img src="https://user-images.githubusercontent.com/34199193/89117389-620f9900-d46b-11ea-8de1-d2e33fbe6a8f.png" width="700" >
