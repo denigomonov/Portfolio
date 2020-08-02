@@ -26,4 +26,4 @@ _snippet (ipynb) of Coordinates & 2D KNN:_
 * Created EDA-Notebook exploring how Airbnb is affecting neighbourhoods of NYC using Python & Jupyter
 * Collected data from [Inside Airbnb](http://insideairbnb.com/) and maintained it on Kaggle with achieving _Top-20 Most Voted, 1850+ Votes, Gold medal_
 * Analysed and visualized distribution of prices of New York City boroughs & neighborhoods via Seaborn
-* Optimized text data presented and provided with listing-titles insights on trend terminology 
+* Optimized text data presented and provided with Listing Titles insights on trend terminology 
