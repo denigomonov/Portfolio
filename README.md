@@ -18,6 +18,7 @@ _inline (ipynb) version GIF:_
 * Determined features and applied K-Nearest-Neighbors classification with best model fit & performance via Scikit-learn
 * Visualized KNN-algorithm output and its decision boundary in 2D format with Countour plot
 
-_snippet (ipynb) of 2D KNN viz:_
+_snippet (ipynb) of Coordinates & 2D KNN:_
 
-<img src="https://user-images.githubusercontent.com/34199193/89117053-9b92d500-d468-11ea-9925-5610466a9dc6.PNG" width="500" height="360">
+<img src="https://user-images.githubusercontent.com/34199193/89117211-23c5aa00-d46a-11ea-893a-a059d5ec2a0d.PNG" width="300" height="260">
+<img src="https://user-images.githubusercontent.com/34199193/89117053-9b92d500-d468-11ea-9925-5610466a9dc6.PNG" width="300" height="260">
