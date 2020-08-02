@@ -31,4 +31,4 @@ _snippet (ipynb) of Coordinates & 2D KNN:_
 _snippet from Kaggle:_
 
 
-<img src="https://user-images.githubusercontent.com/34199193/89118405-96875300-d473-11ea-8fa4-6034f51a6a4f.PNG" width="750" height="285">
+<img src="https://user-images.githubusercontent.com/34199193/89118405-96875300-d473-11ea-8fa4-6034f51a6a4f.PNG" width="700" height="285">
