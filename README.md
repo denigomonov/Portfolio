@@ -22,7 +22,7 @@ _snippet (ipynb) of Coordinates & 2D KNN:_
 
 <img src="https://user-images.githubusercontent.com/34199193/89117389-620f9900-d46b-11ea-8de1-d2e33fbe6a8f.png" width="700" >
 
-# Project (NOV/2019): Airbnb in New York City EDA
+# [Project (Nov/2019): Airbnb in New York City EDA](https://github.com/denigomonov/Airbnb-NYC-EDA)
 * Created EDA-Notebook exploring how Airbnb is affecting neighbourhoods of NYC using Python & Jupyter
 * Collected data from [Inside Airbnb](http://insideairbnb.com/) and maintained it on Kaggle with achieving _Top-20 Most Voted, 1850+ Votes, Gold medal_
 * Analysed and visualized distribution of prices of New York City boroughs & neighborhoods via Seaborn
