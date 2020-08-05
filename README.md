@@ -1,7 +1,7 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
-# Project (AUG/2020): COVID-19 U.S. Dashboard
+# [Project (AUG/2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
 * Created _inline & external_ dynamic dashboards breaking down the spread of Covid-19 in U.S. using Python & Jupyter
 * Prepared and transformed data read from [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 * Optimized OLS Regression for Covid-19 Case & Death 2-Week predictions
