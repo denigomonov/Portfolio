@@ -30,6 +30,8 @@ _snippet from Notebook:_
 * Analysed and visualized distribution of prices of New York City boroughs & neighborhoods via Seaborn
 * Optimized text data presented and provided with Listing Titles insights on trend terminology 
 
+###[For More Details](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+
 _snippet from Kaggle:_
 
 <img src="https://user-images.githubusercontent.com/34199193/89150990-d9a5fc80-d52d-11ea-9cdd-72a498b39e55.png" width="700">
