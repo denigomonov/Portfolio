@@ -8,7 +8,7 @@ Denis Gomonov's Data Science Portfolio
 * Engineered features and built custom plots for metric analysis, geo-mapping and forecasting via Plotly
 * Launched _external_ dynamic dashboard on Heroku
 
-### For More Details
+### [For More Details](https://github.com/denigomonov/COVID19-Dash/blob/master/README.md)
 
 _Heroku App GIF:_
 
