@@ -20,9 +20,9 @@ _Heroku App GIF:_
 * Determined features and applied K-Nearest-Neighbors classification with best model fit & performance via Scikit-learn
 * Visualized KNN-algorithm output and its decision boundary in 2D format with Countour plot
 
-_snippet (ipynb) of Coordinates & 2D KNN:_
+_snippet from Notebook:_
 
-<img src="https://user-images.githubusercontent.com/34199193/89117389-620f9900-d46b-11ea-8de1-d2e33fbe6a8f.png" width="700" >
+<img src="https://user-images.githubusercontent.com/34199193/89725192-f1243000-d9da-11ea-913b-3dd6b3f2c8e9.gif" width="600" >
 
 # [Project (Nov/2019): Airbnb in New York City EDA](https://github.com/denigomonov/Airbnb-NYC-EDA)
 * Created EDA-Notebook exploring how Airbnb is affecting neighbourhoods of NYC using Python & Jupyter
