@@ -15,7 +15,7 @@ _Heroku App GIF:_
 <img src="https://user-images.githubusercontent.com/34199193/89723538-d5625f00-d9c5-11ea-9243-4aa8f7dc824c.gif" width="600">
 
 # [Project (JUN/2020): Advanced Iris Species EDA](https://github.com/denigomonov/Iris-EDA)
-* Created EDA-Notebook exploring uncommon visualization techniques for Iris Species using Python & Jupyter
+* Created EDA-Notebook producing uncommon visualization techniques for Iris Species using Python & Jupyter
 * Explored _petal & sepal_ features with customized Scatter, Coordinates and Categorical-Coordinates plots
 * Determined features and applied K-Nearest-Neighbors classification with best model fit & performance via Scikit-learn
 * Visualized KNN-algorithm output and its decision boundary in 2D format with Countour plot
