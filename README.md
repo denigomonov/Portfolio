@@ -6,11 +6,13 @@ Denis Gomonov's Data Science Portfolio
 * Prepared and transformed data read from [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 * Optimized OLS Regression for Covid-19 Case & Death 2-Week predictions
 * Engineered features and built custom plots for metric analysis, geo-mapping and forecasting via Plotly
-* Launched _external_ dynamic dashboard on Heroku (work in progress)
+* Launched _external_ dynamic dashboard on Heroku
 
-_inline (ipynb) version GIF:_
+### For More Details
 
-![ezgif com-resize](https://user-images.githubusercontent.com/34199193/89116356-47d0bd80-d461-11ea-8d8a-21cde54fd210.gif)
+_Heroku App GIF:_
+
+<img src="https://user-images.githubusercontent.com/34199193/89723538-d5625f00-d9c5-11ea-9243-4aa8f7dc824c.gif" width="600">
 
 # [Project (JUN/2020): Advanced Iris Species EDA](https://github.com/denigomonov/Iris-EDA)
 * Created EDA-Notebook exploring uncommon visualization techniques for Iris Species using Python & Jupyter
