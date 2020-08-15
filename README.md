@@ -1,7 +1,7 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
-# [Project (AUG/2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
+# [Project (2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
 * Created _EDA & external_ dynamic dashboard breaking down the spread of Covid-19 in U.S. using Python in Jupyter & Atom
 * Prepared and transformed data read from [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 * Optimized OLS Regression for Covid-19 Case & Death 2-Week predictions
@@ -14,7 +14,7 @@ _Heroku App GIF:_
 
 <img src="https://user-images.githubusercontent.com/34199193/89723538-d5625f00-d9c5-11ea-9243-4aa8f7dc824c.gif" width="600">
 
-# [Project (JUN/2020): Advanced Iris Species EDA](https://github.com/denigomonov/Iris-EDA)
+# [Project (2020): Advanced Iris Species EDA](https://github.com/denigomonov/Iris-EDA)
 * Created EDA-Notebook producing uncommon visualization techniques for Iris Species using Python & Jupyter
 * Explored _petal & sepal_ features with customized Scatter, Coordinates and Categorical-Coordinates plots
 * Determined features and applied K-Nearest-Neighbors classification with best model fit & performance via Scikit-learn
@@ -24,7 +24,7 @@ _snippet from Notebook:_
 
 <img src="https://user-images.githubusercontent.com/34199193/89725192-f1243000-d9da-11ea-913b-3dd6b3f2c8e9.gif" width="600" >
 
-# [Project (Nov/2019): Airbnb in New York City EDA](https://github.com/denigomonov/Airbnb-NYC-EDA)
+# [Project (2019): Airbnb in New York City EDA](https://github.com/denigomonov/Airbnb-NYC-EDA)
 * Created EDA-Notebook exploring how Airbnb is affecting neighbourhoods of NYC using Python & Jupyter
 * Collected data from [Inside Airbnb](http://insideairbnb.com/) and maintained it on Kaggle with achieving _Top-20 Most Voted, 1850+ Votes, Gold medal_
 * Analysed and visualized distribution of prices of New York City boroughs & neighborhoods via Seaborn
