@@ -20,6 +20,8 @@ _Heroku App GIF:_
 * Determined features and applied K-Nearest-Neighbors classification with best model fit & performance via Scikit-learn
 * Visualized KNN-algorithm output and its decision boundary in 2D format with Countour plot
 
+### [For More Details](https://github.com/denigomonov/Iris-EDA)
+
 _snippet from Notebook:_
 
 <img src="https://user-images.githubusercontent.com/34199193/89725192-f1243000-d9da-11ea-913b-3dd6b3f2c8e9.gif" width="600" >
