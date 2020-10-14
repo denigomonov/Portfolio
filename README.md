@@ -3,9 +3,8 @@ Denis Gomonov's Data Science Portfolio
 
 # [Quant Finance (Streaming Services Portfolio)](https://github.com/denigomonov/QuantFinance-Streaming-Services-Portfolio)
 * Created _R Markdown_ notebook analysing recent performance of streaming service stocks using R, QuantMod and Plotly
-* Prepared datasets for visual portfolio analysis by calculating relevant metrics such as SMA, EMA, Beta, Sharpe ratio, Doji candle, Bollinger Bands and more
-* Created Candlestick plot with all metrics included from above to fully analyse each stock performance, price movements, changes and volume distribution
-* Calculated annualized performance and returns in table and Line plot, and compared equally weighted porfolio to S&P 500 benchmark
+* Prepared dataset for visual portfolio analysis by calculating relevant metrics for dynamic, in-depth Candlestick plot
+* Calculated annualized performance and returns of equally weighted porfolio to S&P 500 benchmark
 * To be continued... (ML application)
 
 _snippet from Notebook:_
