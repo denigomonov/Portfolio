@@ -7,6 +7,8 @@ Denis Gomonov's Data Science Portfolio
 * Calculated annualized performance and returns of equally weighted porfolio to S&P 500 benchmark
 * To be continued... (ML application)
 
+### [For More Details](https://denigomonov.github.io/QuantFinance-Streaming-Services-Portfolio/Quantitative_Trading_R.nb.html)
+
 _snippet from Notebook:_
 To be added
 
