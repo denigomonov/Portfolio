@@ -1,7 +1,7 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
-# [Project (2020): Quant Finance (Streaming Services Portfolio)](https://github.com/denigomonov/QuantFinance-Streaming-Services-Portfolio)
+# [Project (2020): Quant Finance (Streaming Services)](https://github.com/denigomonov/QuantFinance-Streaming-Services-Portfolio)
 * Created _R Markdown_ notebook analysing recent performance of streaming service stocks using R, QuantMod and Plotly
 * Prepared dataset for visual portfolio analysis by calculating relevant metrics for dynamic, in-depth Candlestick plots
 * Calculated annualized performance and returns of equally weighted porfolio to S&P 500 benchmark
