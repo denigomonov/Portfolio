@@ -10,7 +10,8 @@ Denis Gomonov's Data Science Portfolio
 ### [For More Details](https://denigomonov.github.io/QuantFinance-Streaming-Services-Portfolio/Quantitative_Trading_R.nb.html)
 
 _snippet from Notebook:_
-To be added
+
+<img src="https://user-images.githubusercontent.com/34199193/102677617-3c143800-4171-11eb-86d1-290079b17f7e.gif" width="600" >
 
 # [Project (2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
 * Created _EDA & external_ dynamic dashboard breaking down the spread of Covid-19 in U.S. using Python in Jupyter & Atom
