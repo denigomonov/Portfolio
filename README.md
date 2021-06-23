@@ -1,14 +1,14 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
-# [Project (2020-21): Streaming Services (Netflix) Trading Strategy](https://github.com/denigomonov/Streaming-Services-Trading-Strategy)
+# [Project (2021): Netflix Trading Strategy](https://github.com/denigomonov/Streaming-Services-Trading-Strategy)
 * Created _R Markdown_ notebook analysing recent performance of streaming service stocks using R, QuantMod and Plotly
 * Prepared dataset for visual portfolio analysis by calculating relevant metrics for dynamic, in-depth Candlestick plots
 * Calculated annualized performance and returns of equally weighted porfolio to S&P 500 benchmark
 * Feature engineering perfomed to retrieve daily Return, SMA-10, EMA-10, Upper Bolinger Band, Bottom Bolinger Band, Doji or Not, Webscrapping Article Score , Volume change, Volatility (*in progress*)
 * Creating and outputing performance of ML models in form of Support Vector Machine, Naive Bayes, Random Forest, and single layer Neural Network (*in progress*)
 
-### [For More Details](https://denigomonov.github.io/QuantFinance-Streaming-Services-Portfolio/Quantitative_Trading_R.nb.html)
+### [For More Details](https://github.com/denigomonov/Streaming-Services-Trading-Strategy/master/README.md)
 
 _snippet from Notebook:_
 
