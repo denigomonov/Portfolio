@@ -2,17 +2,14 @@
 Denis Gomonov's Data Science Portfolio
 
 # [Project (2021): Netflix Trading Strategy](https://github.com/denigomonov/Streaming-Services-Trading-Strategy)
-* Created _R Markdown_ notebook analysing recent performance of streaming service stocks using R, QuantMod and Plotly
-* Prepared dataset for visual portfolio analysis by calculating relevant metrics for dynamic, in-depth Candlestick plots
-* Calculated annualized performance and returns of equally weighted porfolio to S&P 500 benchmark
-* Feature engineering perfomed to retrieve daily Return, SMA-10, EMA-10, Upper Bolinger Band, Bottom Bolinger Band, Doji or Not, Webscrapping Article Score , Volume change, Volatility (*in progress*)
-* Creating and outputing performance of ML models in form of Support Vector Machine, Naive Bayes, Random Forest, and single layer Neural Network (*in progress*)
+* 
 
 ### [For More Details](https://github.com/denigomonov/Streaming-Services-Trading-Strategy#readme)
 
 _snippet from Notebook:_
 
-add img here
+<img src=https://user-images.githubusercontent.com/34199193/123129154-bae87700-d419-11eb-854a-0ef14755cca6.gif>
+
 
 # [Project (2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
 * Created _EDA & external_ dynamic dashboard breaking down the spread of Covid-19 in U.S. using Python in Jupyter & Atom
@@ -25,7 +22,7 @@ add img here
 
 _Heroku App GIF:_
 
-<img src="https://user-images.githubusercontent.com/34199193/89723538-d5625f00-d9c5-11ea-9243-4aa8f7dc824c.gif" width="600">
+<img src="https://user-images.githubusercontent.com/34199193/89723538-d5625f00-d9c5-11ea-9243-4aa8f7dc824c.gif">
 
 # [Project (2020): Advanced Iris Species EDA](https://github.com/denigomonov/Iris-EDA)
 * Created EDA-Notebook producing uncommon visualization techniques for Iris Species using Python & Jupyter
@@ -37,7 +34,7 @@ _Heroku App GIF:_
 
 _snippet from Notebook:_
 
-<img src="https://user-images.githubusercontent.com/34199193/89725192-f1243000-d9da-11ea-913b-3dd6b3f2c8e9.gif" width="600" >
+<img src="https://user-images.githubusercontent.com/34199193/89725192-f1243000-d9da-11ea-913b-3dd6b3f2c8e9.gif">
 
 # [Project (2019): Airbnb in New York City EDA](https://github.com/denigomonov/Airbnb-NYC-EDA)
 * Created EDA-Notebook exploring how Airbnb is affecting neighbourhoods of NYC using Python & Jupyter
