@@ -2,7 +2,10 @@
 Denis Gomonov's Data Science Portfolio
 
 # [Project (2021): Netflix Trading Strategy](https://github.com/denigomonov/Streaming-Services-Trading-Strategy)
-* 
+* Prepared the NFLX data for visual portfolio analysis by calculating relevant metrics such as SMA, EMA, ROC, RSI, Bollinger Bands, etc
+* Created dynamic _Candlestick_ and _RSI_ plots for detailed analysis of stock perfomance via Plotly
+* Established a buy/sell signal and prepared a list of classification algorithms with performance comparisson via _k_-fold cross validation
+* Determined Random Forest to be the best applicable model, achieving classification accuracy score of 0.91 by tuning with GridSearchCV 
 
 ### [For More Details](https://github.com/denigomonov/Streaming-Services-Trading-Strategy#readme)
 
