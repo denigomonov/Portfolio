@@ -11,7 +11,7 @@ Denis Gomonov's Data Science Portfolio
 
 _snippet from Notebook:_
 
-<img src=https://user-images.githubusercontent.com/34199193/123129154-bae87700-d419-11eb-854a-0ef14755cca6.gif>
+<img src="https://user-images.githubusercontent.com/34199193/123129154-bae87700-d419-11eb-854a-0ef14755cca6.gif">
 
 
 # [Project (2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
