@@ -8,11 +8,11 @@ Denis Gomonov's Data Science Portfolio
 * Feature engineering perfomed to retrieve daily Return, SMA-10, EMA-10, Upper Bolinger Band, Bottom Bolinger Band, Doji or Not, Webscrapping Article Score , Volume change, Volatility (*in progress*)
 * Creating and outputing performance of ML models in form of Support Vector Machine, Naive Bayes, Random Forest, and single layer Neural Network (*in progress*)
 
-### [For More Details](https://github.com/denigomonov/Streaming-Services-Trading-Strategy/master/README.md)
+### [For More Details](https://github.com/denigomonov/Streaming-Services-Trading-Strategy#readme)
 
 _snippet from Notebook:_
 
-<img src="https://user-images.githubusercontent.com/34199193/102677617-3c143800-4171-11eb-86d1-290079b17f7e.gif" width="600" >
+add img here
 
 # [Project (2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
 * Created _EDA & external_ dynamic dashboard breaking down the spread of Covid-19 in U.S. using Python in Jupyter & Atom
