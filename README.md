@@ -2,7 +2,7 @@
 Denis Gomonov's Data Science Portfolio
 
 # [Project (2022): BlackRock Hackathon Digital Asset and Crypto Tracking ETF Research Hub](https://github.com/denigomonov/BLKHACK22)
-* Analyzed and transformed BTC datasets to exclude bot entries and show parallel data between twitter entries & market ticker prices
+* Analyzed and transformed BTC datasets to exclude bot entries and show parallel data between Twitter entries & market ticker prices
 * Optimized string data by removing stop words and stemming, further calculating sentiment scores via subjectivity, polarity, vader metrics
 * Created 3 demo hourly visualizations with scaled vader sentiment scores against BTC volume, BTC USD, BTC close price 
 
