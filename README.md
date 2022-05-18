@@ -1,6 +1,12 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
+# [Project (2022): BlackRock Hackathon Digital Asset and Crypto Tracking ETF Research Hub](https://github.com/denigomonov/BLKHACK22)
+* Analyzed and transformed BTC datasets to exclude bot entries and show parallel data between twitter entries & market ticker prices (hourly)
+* Optimized string data by removing stop words and stemming, further calculating sentiment scores via subjectivity, polarity, vader metrics
+* Created 3 demo hourly visualizations with scaled vader sentiment scores against BTC volume, BTC USD, BTC close price 
+
+
 # [Project (2021): Netflix Trading Strategy](https://github.com/denigomonov/Streaming-Services-Trading-Strategy)
 * Prepared the NFLX data for visual portfolio analysis by calculating relevant metrics such as SMA, EMA, ROC, RSI, Bollinger Bands, etc
 * Created dynamic _Candlestick_ and _RSI_ plots for detailed analysis of stock perfomance via Plotly
