@@ -1,6 +1,16 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
+# [Project (2023): Insurance Claim Fraud Analysis](https://github.com/denigomonov/Fraud-Analysis)
+* Analyzed and created visualizations to explore trends showing distinct features that lead to fraudulent claims
+* Prepared and transforemd data via categorical encoding to be fit for Keras model, acquired from [Kaggle](https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection)
+* Built a model with 32 input neurons in the input layer, 32 neurons in 1 hidden layer and final dense layer utilizing binary-crossentropy loss and adam optimizer, resulting in loss: 0.9092 - accuracy: 0.9361 on test data
+
+_snippet from Notebook:_
+
+![Animation](https://user-images.githubusercontent.com/34199193/212479727-a3ae6226-b6e6-44fe-9ace-4dba4669c53f.gif)
+
+
 # [Project (2022): BlackRock Hackathon Digital Asset and Crypto Tracking ETF Research Hub](https://github.com/denigomonov/BLKHACK22)
 * Analyzed and transformed BTC datasets to exclude bot entries and show parallel data between Twitter entries & market ticker prices
 * Optimized string data by removing stop words and stemming, further calculating sentiment scores via subjectivity, polarity, vader metrics
