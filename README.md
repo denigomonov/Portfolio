@@ -1,6 +1,8 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
+# Goal (2024): Practical Application of Computer Vision
+
 # [Project (2023): Insurance Claim Fraud Analysis](https://github.com/denigomonov/Fraud-Analysis)
 * Analyzed and created visualizations to explore trends showing distinct features that lead to fraudulent claims
 * Prepared and transforemd data via categorical encoding to be fit for Keras model, acquired from [Kaggle](https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection)
