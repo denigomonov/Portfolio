@@ -1,7 +1,18 @@
 # Portfolio
 Denis Gomonov's Data Science Portfolio
 
-# Goal (2024): Practical Application of Computer Vision
+# Goal (2024): Practical Application of NLP/Comp Vision
+
+# Project (2024) (unreleased): Political Database + Context Summarization 
+* Led team of 4 to build a political database SaaS platform as a subscription service
+* Collected data from multiple gov entities via API calls such as: congress.gov, pa.gov, data.gov, etc
+* Built out a platform with the latest techniques using Next.js, Tailwind, httpx, clerk, etc
+* Provided research on data licensing, legal matters and service costs
+
+_snippet from the website + nlp work:_
+
+<img src="https://github.com/denigomonov/Portfolio/assets/34199193/5c3fb35c-6eee-458f-bad2-c3d8ad2a5eaa" width="700">
+
 
 # [Project (2023): Insurance Claim Fraud Analysis](https://github.com/denigomonov/Fraud-Analysis)
 * Analyzed and created visualizations to explore trends showing distinct features that lead to fraudulent claims
