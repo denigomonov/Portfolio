@@ -26,7 +26,7 @@ _snippet from Notebook:_
 ![Animation](https://user-images.githubusercontent.com/34199193/212479727-a3ae6226-b6e6-44fe-9ace-4dba4669c53f.gif)
 
 
-## [Project (2022): BlackRock Hackathon Digital Asset and Crypto Tracking ETF Research Hub](https://github.com/denigomonov/BLKHACK22)
+## Project (2022): BlackRock Hackathon Digital Asset and Crypto Tracking ETF Research Hub
 * Analyzed and transformed BTC datasets to exclude bot entries and show parallel data between Twitter entries & market ticker prices
 * Optimized string data by removing stop words and stemming, further calculating sentiment scores via subjectivity, polarity, vader metrics
 * Created 3 demo hourly visualizations with scaled vader sentiment scores against BTC volume, BTC USD, BTC close price 
