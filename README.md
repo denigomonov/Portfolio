@@ -14,7 +14,7 @@ Denis Gomonov's Data Science Portfolio
 
 _snippet from the website + nlp work:_
 
-<img src="https://github.com/user-attachments/assets/9ece2ee2-beaf-40bc-8697-7c2cedb95b04" />
+<img src="https://github.com/user-attachments/assets/9ece2ee2-beaf-40bc-8697-7c2cedb95b04" width="700">
 
 
 ## [Project (2023): Insurance Claim Fraud Analysis](https://github.com/denigomonov/Fraud-Analysis)
