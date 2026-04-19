@@ -9,7 +9,7 @@ Denis Gomonov's Data Science Portfolio
 
 ## Project (2024) (unreleased): Political Database + Context Summarization 
 * Led team of 4 to build a political database SaaS platform as a subscription service
-* Collected data from multiple gov entities via API calls such as: congress.gov, pa.gov, data.gov, etc
+* Collected data from multiple gov entities via API calls such as: congress.gov, pa.gov, data.gov, for LLM Context summarization
 * Provided research on data licensing, legal matters and service costs
 
 _snippet from the website + nlp work:_
