@@ -1,7 +1,8 @@
 # Portfolio
 ---
-# AI / Agentic Era
+# AI Era
 
+_Currently focusing on MLOps / AI Implementation skillset development_ 
 
 
 ---
