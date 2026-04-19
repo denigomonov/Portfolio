@@ -1,11 +1,11 @@
 # Portfolio
-Denis Gomonov's Data Science Portfolio
+---
 # AI / Agentic Era
 
 
 
 ---
-# Pre AI
+# Pre AI Era
 
 ## Project (2024) (unreleased): Political Database + Context Summarization 
 * Led team of 4 to build a political database SaaS platform as a subscription service
