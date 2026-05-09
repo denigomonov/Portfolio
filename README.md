@@ -2,47 +2,11 @@
 ---
 # AI Era
 
-_Currently focusing on MLOps / AI Implementation skillset development_ 
+_Cooking - check pinned repo_ 
 
 
 ---
 # Pre AI Era
-
-## Project (2024) (unreleased): Political Database + Context Summarization 
-* Led team of 4 to build a political database SaaS platform as a subscription service
-* Collected data from multiple gov entities via API calls such as: congress.gov, pa.gov, data.gov, for LLM Context summarization
-* Provided research on data licensing, legal matters and service costs
-
-_snippet from the website + nlp work:_
-
-<img src="https://github.com/user-attachments/assets/9ece2ee2-beaf-40bc-8697-7c2cedb95b04" width="700">
-
-
-## [Project (2023): Insurance Claim Fraud Analysis](https://github.com/denigomonov/Fraud-Analysis)
-* Analyzed and created visualizations to explore trends showing distinct features that lead to fraudulent claims from [Kaggle](https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection)
-* Built a model with 32 input-n (input layer), 32 hidden-n (hidden layer), utilizing binary-crossentropy loss and adam optimizer, resulting in loss: 0.9092 - accuracy: 0.9361 on test data
-
-_snippet from Notebook:_
-
-![Animation](https://user-images.githubusercontent.com/34199193/212479727-a3ae6226-b6e6-44fe-9ace-4dba4669c53f.gif)
-
-
-## Project (2022): BlackRock Hackathon Digital Asset and Crypto Tracking ETF Research Hub
-* Analyzed and transformed BTC datasets to exclude bot entries and show parallel data between Twitter entries & market ticker prices
-* Optimized string data by removing stop words and stemming, further calculating sentiment scores via subjectivity, polarity, vader metrics
-* Created 3 demo hourly visualizations with scaled vader sentiment scores against BTC volume, BTC USD, BTC close price 
-
-
-## [Project (2021): Netflix Trading Strategy](https://github.com/denigomonov/Streaming-Services-Trading-Strategy)
-* Prepared the NFLX data for visual portfolio analysis by calculating relevant metrics such as SMA, EMA, ROC, RSI, Bollinger Bands, etc
-* Established a buy/sell signal and prepared and determined Random Forest to be the best applicable model, achieving classification accuracy score of 0.91 by tuning with GridSearchCV 
-
-### [For More Details](https://github.com/denigomonov/Streaming-Services-Trading-Strategy#readme)
-
-_snippet from Notebook:_
-
-<img src="https://user-images.githubusercontent.com/34199193/123129154-bae87700-d419-11eb-854a-0ef14755cca6.gif">
-
 
 ## [Project (2020): COVID-19 U.S. Dashboard](https://github.com/denigomonov/COVID19-Dash)
 * Created _EDA & external_ dynamic dashboard breaking down the spread of Covid-19 from [USAFACTS](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) in U.S. using Python in Jupyter & Atom
